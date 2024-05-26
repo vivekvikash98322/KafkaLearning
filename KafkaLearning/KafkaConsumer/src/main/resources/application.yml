@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: kafkaConsumer
+
+server:
+  port: 8081
