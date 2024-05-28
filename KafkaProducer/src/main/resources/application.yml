@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: kafkaProducer
+  kafka:
+    bootstrap-server: localhost:9092
+
+
+
+
+
+
+server:
+  port: 8082
